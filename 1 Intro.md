@@ -1,4 +1,3 @@
-# Operating Systems Notes
 
 ## What is an Operating System (OS)?
 
